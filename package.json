@@ -1,0 +1,22 @@
+{
+  "name": "histogram-prototype",
+  "version": "1.0.0",
+  "description": "A simple, lightweight, VueJS prototype with D3 to create a histogram.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tepkool01/histogram-prototype.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tepkool01/histogram-prototype/issues"
+  },
+  "homepage": "https://github.com/tepkool01/histogram-prototype#readme",
+  "dependencies": {
+    "d3": "^6.0.0"
+  }
+}
